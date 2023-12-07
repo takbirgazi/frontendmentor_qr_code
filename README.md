@@ -1,1 +1,1 @@
-#QR Code for Frontendmentor
+# QR Code for Frontendmentor
